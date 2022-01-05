@@ -1,4 +1,4 @@
-# Chapter 1: Strategy Pattern
+# Chapter 1: Mini Duck Simulator.
 from abc import abstractmethod, ABC
 
 class FlyBehavior(ABC):

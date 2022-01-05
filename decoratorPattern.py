@@ -1,4 +1,4 @@
-# Chapter 3: Decorator Pattern
+# Chapter 3: Starbuzz Coffee.
 
 from abc import ABCMeta, abstractmethod
 

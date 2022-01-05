@@ -1,3 +1,5 @@
+# Chapter 5: Cho-O-holic
+
 from threading import Thread
 from time import sleep
 import random

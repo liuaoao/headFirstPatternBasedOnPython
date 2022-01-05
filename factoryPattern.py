@@ -1,4 +1,4 @@
-# Chapter 4: Factory Pattern
+# Chapter 4: Pizza Test Diver.
 
 from abc import ABCMeta, abstractmethod
 

@@ -1,4 +1,4 @@
-# Chapter 2: Observer Pattern
+# Chapter 2: Weather Station.
 
 import random
 from abc import abstractmethod, ABCMeta
